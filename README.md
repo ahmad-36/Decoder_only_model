@@ -1,4 +1,4 @@
-# NLP
+# Tranformer Decoder-Only Model
 Transformer Language Model
 
 Overview
