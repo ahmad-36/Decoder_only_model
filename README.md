@@ -15,8 +15,8 @@ Features
 
 Requirements
 	•	Python 3.x
-	•	PyTorch.. 
-	•	NumPy..
+	•	PyTorch 2.2.0 
+	•	NumPy 1.26.4
 
 Installation
 	1.	Clone the repository:
@@ -26,7 +26,7 @@ Installation
 
 	2.	Install dependencies:
 
-pip install torch numpy...
+pip install torch numpy 1.26.4
 
 
 
